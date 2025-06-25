@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+spacy
+textblob
+tensorflow
+fairness-indicators
+tensorflow-model-analysis
